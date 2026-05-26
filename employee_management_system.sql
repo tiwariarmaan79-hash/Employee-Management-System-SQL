@@ -1,4 +1,5 @@
 CREATE DATABASE employee_management_system;
+USE employee_management_system;
 
 CREATE TABLE departments (
 department_id INT PRIMARY KEY AUTO_INCREMENT,
