@@ -75,7 +75,23 @@ Contains:
 - Views
 
 ---
+## Project Screenshots
 
+### Database Tables
+
+![Database Tables](screenshots/departments_tables.jpg)
+
+### Employee Data
+
+![Employee Data](screenshots/employee_table.jpg)
+
+### Department Average Salary
+
+![Department Average Salary](screenshots/department_average_salary.jpg)
+
+### Highest Average Salary Department
+
+![Highest Average Salary Department](screenshots/highest_average_salary_department.jpg)
 ## Author
 
 Armaan Tiwari
